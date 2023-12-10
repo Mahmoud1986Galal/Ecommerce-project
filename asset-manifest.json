@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/ecommerce-project/static/css/main.cbef9e9b.css",
-    "main.js": "/github.io/ecommerce-project/static/js/main.33a4a422.js",
+    "main.js": "/github.io/ecommerce-project/static/js/main.bbe5dde5.js",
     "static/media/laptops.png": "/github.io/ecommerce-project/static/media/laptops.a5a6ab642345b5d38784.png",
     "static/media/slider4.png": "/github.io/ecommerce-project/static/media/slider4.8049dedb7c458a0534a5.png",
     "static/media/prod4.png": "/github.io/ecommerce-project/static/media/prod4.60c973db7361e54bb831.png",
@@ -19,10 +19,10 @@
     "static/media/brand3.png": "/github.io/ecommerce-project/static/media/brand3.1a0049b1f1a261d0e6d1.png",
     "index.html": "/github.io/ecommerce-project/index.html",
     "main.cbef9e9b.css.map": "/github.io/ecommerce-project/static/css/main.cbef9e9b.css.map",
-    "main.33a4a422.js.map": "/github.io/ecommerce-project/static/js/main.33a4a422.js.map"
+    "main.bbe5dde5.js.map": "/github.io/ecommerce-project/static/js/main.bbe5dde5.js.map"
   },
   "entrypoints": [
     "static/css/main.cbef9e9b.css",
-    "static/js/main.33a4a422.js"
+    "static/js/main.bbe5dde5.js"
   ]
 }
