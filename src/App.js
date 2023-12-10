@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="font" >
       <NavBarLogin />
-      <BrowserRouter>
+      <BrowserRouter basename="ecommerce-project">
         <Routes>
           <Route index element={<HomePage />} />
           <Route path="/login" element={<LoginPage />} />
