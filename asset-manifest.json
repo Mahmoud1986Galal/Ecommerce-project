@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Ecommerce-projec/static/css/main.cbef9e9b.css",
-    "main.js": "/Ecommerce-projec/static/js/main.d10be5e5.js",
-    "static/media/laptops.png": "/Ecommerce-projec/static/media/laptops.a5a6ab642345b5d38784.png",
-    "static/media/slider4.png": "/Ecommerce-projec/static/media/slider4.8049dedb7c458a0534a5.png",
-    "static/media/prod4.png": "/Ecommerce-projec/static/media/prod4.60c973db7361e54bb831.png",
-    "static/media/slider1.png": "/Ecommerce-projec/static/media/slider1.2d6dc5a9c0fd289461ee.png",
-    "static/media/prod3.png": "/Ecommerce-projec/static/media/prod3.c073f706ba444448c519.png",
-    "static/media/item.png": "/Ecommerce-projec/static/media/item.79eafdfba70f40ed66c5.png",
-    "static/media/prod1.png": "/Ecommerce-projec/static/media/prod1.9f9a0d840227c590ac5d.png",
-    "static/media/clothe.png": "/Ecommerce-projec/static/media/clothe.63497de16012693f71f1.png",
-    "static/media/cat2.png": "/Ecommerce-projec/static/media/cat2.cb9155160d37d36502be.png",
-    "static/media/login.png": "/Ecommerce-projec/static/media/login.8c8d20fcc2c01cbb9fcf.png",
-    "static/media/labtop.png": "/Ecommerce-projec/static/media/labtop.72427ac57eccb337dd2b.png",
-    "static/media/pic.png": "/Ecommerce-projec/static/media/pic.c1f340e9b514ac94aa83.png",
-    "static/media/sale.png": "/Ecommerce-projec/static/media/sale.fd3bd0e8262078e4961a.png",
-    "static/media/cart.jpg": "/Ecommerce-projec/static/media/cart.f661f73d1f2e730c76a4.jpg",
-    "static/media/brand3.png": "/Ecommerce-projec/static/media/brand3.1a0049b1f1a261d0e6d1.png",
-    "index.html": "/Ecommerce-projec/index.html",
-    "main.cbef9e9b.css.map": "/Ecommerce-projec/static/css/main.cbef9e9b.css.map",
-    "main.d10be5e5.js.map": "/Ecommerce-projec/static/js/main.d10be5e5.js.map"
+    "main.css": "/ecommerce-projec/static/css/main.cbef9e9b.css",
+    "main.js": "/ecommerce-projec/static/js/main.ca8ffcc5.js",
+    "static/media/laptops.png": "/ecommerce-projec/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/ecommerce-projec/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/ecommerce-projec/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/ecommerce-projec/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/ecommerce-projec/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/item.png": "/ecommerce-projec/static/media/item.79eafdfba70f40ed66c5.png",
+    "static/media/prod1.png": "/ecommerce-projec/static/media/prod1.9f9a0d840227c590ac5d.png",
+    "static/media/clothe.png": "/ecommerce-projec/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/ecommerce-projec/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/login.png": "/ecommerce-projec/static/media/login.8c8d20fcc2c01cbb9fcf.png",
+    "static/media/labtop.png": "/ecommerce-projec/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/pic.png": "/ecommerce-projec/static/media/pic.c1f340e9b514ac94aa83.png",
+    "static/media/sale.png": "/ecommerce-projec/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/cart.jpg": "/ecommerce-projec/static/media/cart.f661f73d1f2e730c76a4.jpg",
+    "static/media/brand3.png": "/ecommerce-projec/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/ecommerce-projec/index.html",
+    "main.cbef9e9b.css.map": "/ecommerce-projec/static/css/main.cbef9e9b.css.map",
+    "main.ca8ffcc5.js.map": "/ecommerce-projec/static/js/main.ca8ffcc5.js.map"
   },
   "entrypoints": [
     "static/css/main.cbef9e9b.css",
-    "static/js/main.d10be5e5.js"
+    "static/js/main.ca8ffcc5.js"
   ]
 }
