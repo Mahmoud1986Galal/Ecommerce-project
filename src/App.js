@@ -11,8 +11,8 @@ import ShopProductPage from "./pages/Products/ShopProductPage";
 function App() {
   return (
     <div className="font" >
-      <NavBarLogin />
       <HashRouter basename="ecommerce-project/">
+        <NavBarLogin />
         <Routes>
           <Route index element={<HomePage />} />
           <Route path="/login" element={<LoginPage />} />
@@ -21,8 +21,8 @@ function App() {
           <Route path="/allbrand" element={<AllBrandPage />} />
           <Route path="/allproducts" element={<ShopProductPage />} />
         </Routes>
+        <Footer />
       </HashRouter>
-      <Footer />
     </div>
   );
 }
