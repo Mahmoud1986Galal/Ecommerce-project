@@ -12,16 +12,16 @@ function App() {
   return (
     <div className="font" >
       <HashRouter basename="ecommerce-project/">
-        <NavBarLogin />
         <Routes>
+          <Route path="/" element={<NavBarLogin />} />
           <Route index element={<HomePage />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/register" element={<RegisterPage />} />
           <Route path="/allcategory" element={<AllCategoryPage />} />
           <Route path="/allbrand" element={<AllBrandPage />} />
           <Route path="/allproducts" element={<ShopProductPage />} />
+          <Route path="/" element={<Footer />} />
         </Routes>
-        <Footer />
       </HashRouter>
     </div>
   );
