@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import HomePage from "./pages/Home/HomePage";
 import NavBarLogin from "./component/Utility/NavBarLogin";
 import Footer from "./component/Utility/Footer";
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="font" >
       <NavBarLogin />
-      <HashRouter>
+      <BrowserRouter basename="/ecommerce-project">
         <Routes>
           <Route index element={<HomePage />} />
           <Route path="/login" element={<LoginPage />} />
@@ -21,7 +21,7 @@ function App() {
           <Route path="/allbrand" element={<AllBrandPage />} />
           <Route path="/allproducts" element={<ShopProductPage />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
       <Footer />
     </div>
   );
