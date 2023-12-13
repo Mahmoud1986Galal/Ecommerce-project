@@ -14,16 +14,16 @@ const LoginPage = () => {
 
                 <Form style={{ border: '1px solid black', borderRadius: '2rem' }} className='h-25 w-30 text-center p-3 mt-3'>
                     <Form.Group className="mb-3" controlId="formBasicEmail">
-                        <Form.Label>البريد الالكترونى</Form.Label>
-                        <Form.Control className='py-2' type="email" placeholder="الايميل..." />
+                        <Form.Label htmlFor='email'>البريد الالكترونى</Form.Label>
+                        <Form.Control id='email' className='py-2' type="email" placeholder="الايميل..." />
                         <Form.Text className="text-muted">
                             نحن لن نقوم ابدا بمشاركة الايميل الخاص بك مع اى شخص اخر
                         </Form.Text>
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicPassword">
-                        <Form.Label>كلمة السر</Form.Label>
-                        <Form.Control type="password" placeholder="كلمة السر..." />
+                        <Form.Label htmlFor='pass'>كلمة السر</Form.Label>
+                        <Form.Control id='pass' type="password" placeholder="كلمة السر..." />
                     </Form.Group>
                     <Form.Group className="mb-3" controlId="formBasicCheckbox">
                         <Form.Check type="checkbox" label="Check me out" />

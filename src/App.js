@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import HomePage from "./pages/Home/HomePage";
 import NavBarLogin from "./component/Utility/NavBarLogin";
 import Footer from "./component/Utility/Footer";
@@ -11,7 +11,7 @@ import ShopProductPage from "./pages/Products/ShopProductPage";
 function App() {
   return (
     <div className="font" >
-      <HashRouter basename="ecommerce-project/">
+      <BrowserRouter>
         <NavBarLogin />
         <Routes>
           <Route index element={<HomePage />} />
@@ -22,7 +22,7 @@ function App() {
           <Route path="/allproducts" element={<ShopProductPage />} />
         </Routes>
         <Footer />
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }

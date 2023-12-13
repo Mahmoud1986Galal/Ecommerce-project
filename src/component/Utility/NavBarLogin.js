@@ -28,13 +28,13 @@ function NavBarLogin() {
                         id='search'
                     />
                     <Nav className='mx-3 w-50'>
-                        <Link to='/login' className='nav-text d-flex mt-2 justify-content-center'>
+                        <Link to='/login' className='nav-text d-flex mt-2 justify-content-center text-decoration-none'>
                             <img src={login} alt="login" className='login-img bg-dark mx-1' />
                             <p style={{ color: 'white' }}>
                                 تسجيل الدخول
                             </p>
                         </Link>
-                        <Link to='/cart' className='nav-text d-flex mt-2 justify-content-center'>
+                        <Link to='/cart' className='nav-text d-flex mt-2 justify-content-center text-decoration-none'>
                             <img src={cart} alt="cart" className='login-img bg-dark mx-1' />
                             <p style={{ color: 'white' }}>
                                 عربة التسوق
